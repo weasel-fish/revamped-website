@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weasel-fish/revamped-website/static/css/main.a617e044.chunk.css",
+    "main.js": "/weasel-fish/revamped-website/static/js/main.417e8862.chunk.js",
+    "main.js.map": "/weasel-fish/revamped-website/static/js/main.417e8862.chunk.js.map",
+    "runtime-main.js": "/weasel-fish/revamped-website/static/js/runtime-main.b2bf579e.js",
+    "runtime-main.js.map": "/weasel-fish/revamped-website/static/js/runtime-main.b2bf579e.js.map",
+    "static/js/2.16287469.chunk.js": "/weasel-fish/revamped-website/static/js/2.16287469.chunk.js",
+    "static/js/2.16287469.chunk.js.map": "/weasel-fish/revamped-website/static/js/2.16287469.chunk.js.map",
+    "static/js/3.85568545.chunk.js": "/weasel-fish/revamped-website/static/js/3.85568545.chunk.js",
+    "static/js/3.85568545.chunk.js.map": "/weasel-fish/revamped-website/static/js/3.85568545.chunk.js.map",
+    "index.html": "/weasel-fish/revamped-website/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/weasel-fish/revamped-website/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.16287469.chunk.js.LICENSE.txt": "/weasel-fish/revamped-website/static/js/2.16287469.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/weasel-fish/revamped-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2bf579e.js",
+    "static/js/2.16287469.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.417e8862.chunk.js"
+  ]
+}
